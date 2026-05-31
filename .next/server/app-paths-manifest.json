@@ -1,0 +1,9 @@
+{
+  "/order/[groupId]/page": "app/order/[groupId]/page.js",
+  "/page": "app/page.js",
+  "/join/[inviteCode]/page": "app/join/[inviteCode]/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
